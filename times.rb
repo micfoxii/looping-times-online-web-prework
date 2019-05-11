@@ -1,6 +1,6 @@
-def using_time(spell=)
+def using_time
 7.times do
-  puts spell"Wingardium Leviosa"
+  puts "Wingardium Leviosa"
 end
 end
 
